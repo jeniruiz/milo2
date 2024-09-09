@@ -1,6 +1,6 @@
 <html>
     <body style="background-color:lightgrey;">
-        <a style="color:SlateGrey" <img src="https://i.ibb.co/sj3xt40/Imagen-de-Whats-App-2024-09-09-a-las-06-28-59-035c2786.jpg" alt="Imagen-de-Whats-App-2024-09-09-a-las-06-28-59-035c2786" border="0" border="0" height="50"><b><i>Des-Nuditos</i></b></a>
+        <a style="color:SlateGrey" href="https://ibb.co/sj3xt40"> <img src="https://i.ibb.co/sj3xt40/Imagen-de-Whats-App-2024-09-09-a-las-06-28-59-035c2786.jpg" alt="Imagen-de-Whats-App-2024-09-09-a-las-06-28-59-035c2786" border="0" border="0" height="50"><b><i>Des-Nuditos</i></b></a>
         <h1 style="color:Aqua;font-size:50px;font-family:Kunstler Script;background-color:black;text-align:right">...Des - Nuditos...</h1><br>
             <h2 style="text-indent: 20px;text-align:center;color:maroon;font-family:gabriola;font-size:50px;background-color:HoneyDew">Venta de Accesorios Tejidos a Mano.</h2><br>
     <p style="text-indent: 20px;font-family:gabriola;font-size: 30px;color:OrangeRed">Ofrecemos una variedad de accesorios personalizados tejidos a mano, como gorros, escarpines, cintillos, y mucho más. Convierte tus ideas en una pieza única y especial hecha con amor y dedicación.</p>
