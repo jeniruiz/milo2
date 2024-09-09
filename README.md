@@ -17,7 +17,7 @@
             <p style="font-size:15px;color:Aqua;text-align:right";>Plazo de entrega: 72 horas hábiles.
                 <p style="font-size:15px;color:Aqua;text-align:right";>Contacto: +56967217104.
                 </footer>
-        <table style="background-color:black"/><br>
+        <table style="background-color:black"/><br><br>
                     <tr>
             <td style="border:3px solid white;color:white"><b>UBICACIÓN</b></td>
             <td></td>
@@ -29,6 +29,10 @@
             <td></td>
             <td style="border:3px solid white;color:white"><b>CONTACTO</b></td>
                     </tr>
-            </table><br><br>
+            </table><br><br><br>
+                    <div style="text-align:center;">
+            <a href="https://www.instagram.com/"><img src="https://i.ibb.co/4tvNyVF/11.png" width="100" height="100" alt="11" border="0"></a>
+            <a href="https://www.facebook.com/?locale=es_ES"><img src="https://i.ibb.co/Y3nMBRg/22.png" width="100" height="100" alt="22" border="0"></a>
+            <a href="https://www.whatsapp.com/?lang=es_LA"><img src="https://i.ibb.co/vcg6gtW/33.png" width="100" height="100" alt="33" border="0"></a></div>
     </body>
 </html>
